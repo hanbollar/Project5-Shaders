@@ -3,7 +3,7 @@
 
 ## View the Project
 
-# [Click Here](https://hanbollar.github.io/Project5-Shaders/)
+# [Click Here](https://hanbollar.github.io/Shaders/)
 
 ## The Project
 
@@ -28,24 +28,24 @@ Note: for the shader labeled CoolEffect1 - once it's turned on zoom in a bit and
 
 ## Images from the Project
 
-Iridescence</br>![Iridescence](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/irid.png "Iridescence")
+Iridescence</br>![Iridescence](https://github.com/hanbollar/Shaders/blob/master/images/finished/irid.png "Iridescence")
 
-Inverse</br>![Inverse](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/inverse.png "Inverse")
+Inverse</br>![Inverse](https://github.com/hanbollar/Shaders/blob/master/images/finished/inverse.png "Inverse")
 
-Chromatic Aberration</br>![Chromatic Aberration](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/chrAberr.png "Chromatic Aberration")
+Chromatic Aberration</br>![Chromatic Aberration](https://github.com/hanbollar/Shaders/blob/master/images/finished/chrAberr.png "Chromatic Aberration")
 
-Grayscale</br>![Grayscale](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/grayscale.png "Grayscale")
+Grayscale</br>![Grayscale](https://github.com/hanbollar/Shaders/blob/master/images/finished/grayscale.png "Grayscale")
 
-Sobel Edge Detection</br>![Sobel Edge Detection](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/edgeWithSobel.png "Sobel Edge Detection")
+Sobel Edge Detection</br>![Sobel Edge Detection](https://github.com/hanbollar/Shaders/blob/master/images/finished/edgeWithSobel.png "Sobel Edge Detection")
 
-Swap</br>![Swap](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/swap.png "Swap")
+Swap</br>![Swap](https://github.com/hanbollar/Shaders/blob/master/images/finished/swap.png "Swap")
 
-Vignette</br>![Vignette](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/vign.png "Vignette")
+Vignette</br>![Vignette](https://github.com/hanbollar/Shaders/blob/master/images/finished/vign.png "Vignette")
 
 ## Some combinations
 
-Iridescence with Sobel Edge Detection</br>![Iridescence with Sobel Edge Detection](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/iridEdgeWithSobel.png "Iridescence with Sobel Edge Detection")
+Iridescence with Sobel Edge Detection</br>![Iridescence with Sobel Edge Detection](https://github.com/hanbollar/Shaders/blob/master/images/finished/iridEdgeWithSobel.png "Iridescence with Sobel Edge Detection")
 
-Iridescence with Swap</br>![Iridescence with Swap](https://github.com/hanbollar/Project5-Shaders/blob/master/images/finished/iridSwap.png "Iridescence with Swap")
+Iridescence with Swap</br>![Iridescence with Swap](https://github.com/hanbollar/Shaders/blob/master/images/finished/iridSwap.png "Iridescence with Swap")
 
 
